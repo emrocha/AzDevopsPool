@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzDevops-Agent": {
+      "commandName": "Project",
+      "commandLineArgs": "agent disable"
+    }
+  }
+}
